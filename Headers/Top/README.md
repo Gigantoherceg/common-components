@@ -1,0 +1,1 @@
+Reproduction of the CodeBerry school header.
