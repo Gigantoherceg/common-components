@@ -1,0 +1,32 @@
+/* Csak hogy ne a sarokba legyen */
+div {
+  margin: 20px;
+}
+
+/* The base of every button */
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.42857143;
+  padding: 6px 12px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+
+.btn {
+  color: #111;
+  background-color: #fff;
+  border-color: #111;
+  transition: color .3s, background-color .3s;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #111;
+}
